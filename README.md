@@ -1,2 +1,2 @@
 # Gesture-Drawing
-Gesture Drawing Argumented Reality(AR) platform  with the help of hand gesture you can drawn anything and explore your Creativivity.
+Gesture Drawing Argumented Reality(AR) platform  With the help of hand gestures you can draw anything and explore your Creativity.
