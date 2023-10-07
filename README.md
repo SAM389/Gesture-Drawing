@@ -6,6 +6,12 @@ This project is about using openCV and media pipe libraries to utilize the web c
 The main idea is:
 
 detect hands using mediapipe
+
+
 using hand-gesture to draw 
+
+
 use NumPy for data storage of hand coordinates 
+
+
 use cV2 to capture live video from the camera
