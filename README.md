@@ -37,6 +37,9 @@ To obtain ground truth data, we have manually annotated ~30K real-world images w
 ![68747470733a2f2f6d65646961706970652e6465762f696d616765732f6d6f62696c652f68616e645f6c616e646d61726b732e706e67](https://github.com/SAM389/Gesture-Drawing/assets/58984497/e9b1384f-5f0b-4de8-a005-4521eb467645)
 
 
+Demo
+
+
 ![Capture](https://github.com/SAM389/Gesture-Drawing/assets/58984497/079f94ac-2808-4981-99d1-a14f20f2e3f0)
 
 
